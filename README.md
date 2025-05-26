@@ -2,7 +2,7 @@
 
 Object-Oriented programming framework for C.
 
-```C
+```c
 CLASS(MyClass) {
   int a;
   int b;
@@ -36,6 +36,12 @@ beaver
 ## Examples
 
 There are some examples in the [examples](examples) directory.
+
+You can run them using
+
+```sh
+sh example.sh [example-name]
+```
 
 ## License
 
