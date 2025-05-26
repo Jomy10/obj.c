@@ -6,7 +6,7 @@ Object-Oriented programming framework for C.
 CLASS(MyClass) {
   int a;
   int b;
-}
+};
 ```
 
 ## Compiling and linking
