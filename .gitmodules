@@ -1,0 +1,3 @@
+[submodule "deps/metalang99"]
+	path = deps/metalang99
+	url = https://github.com/hirrolot/metalang99.git
